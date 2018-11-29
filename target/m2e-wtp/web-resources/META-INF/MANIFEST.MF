@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: login
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: per.huang.springboot
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/LoginTest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
